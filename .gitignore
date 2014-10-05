@@ -1,29 +1,38 @@
-# Object files
+CMDLINE
+INSTALL
+Makefile
+Makefile.in
+TAGS
+aclocal.m4
+autom4te.cache
+autotools
+bin
+config.h
+config.hin
+config.log
+config.status
+configure
+lib
+obj
+rpm.spec
+stamp-h
+stamp-h.in
+stamp-h1
+tags
+
+# These are the default patterns globally ignored by Subversion:
 *.o
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
 *.lo
-
-# Shared objects (inc. Windows DLLs)
-*.dll
+*.la
+*.al
+.libs
 *.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+*.so.[0-9]*
+*.a
+*.pyc
+*.pyo
+*.rej
+*~
+.#*
+.*.swp
+.DS_store

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Doom", "doom.vcxproj", "{8B744A3B-8F18-41A0-85A3-293816E85B6E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "server.vcxproj", "{10DCBB24-F8BB-4796-A653-6DE9C8AAC24B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Setup", "setup.vcxproj", "{01975BB6-D2DA-48E7-AE0D-6A8AC8ECF48A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libpcsound", "libpcsound.vcxproj", "{66CD7F50-73B9-482F-8B69-1AF54983F845}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libtextscreen", "libtextscreen.vcxproj", "{35F435DB-AC4A-4F28-BA2D-812E638FB01A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libopl", "libopl.vcxproj", "{FC8D0610-1507-4F36-99BC-6F5A422B6AD3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "XControllerLib", "XControllerLib\XControllerLib.vcxproj", "{1B1FA434-D6D8-45FD-9DDE-79F91D3B0EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B744A3B-8F18-41A0-85A3-293816E85B6E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8B744A3B-8F18-41A0-85A3-293816E85B6E}.Debug|Win32.Build.0 = Debug|Win32
+		{8B744A3B-8F18-41A0-85A3-293816E85B6E}.Release|Win32.ActiveCfg = Release|Win32
+		{8B744A3B-8F18-41A0-85A3-293816E85B6E}.Release|Win32.Build.0 = Release|Win32
+		{10DCBB24-F8BB-4796-A653-6DE9C8AAC24B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{10DCBB24-F8BB-4796-A653-6DE9C8AAC24B}.Debug|Win32.Build.0 = Debug|Win32
+		{10DCBB24-F8BB-4796-A653-6DE9C8AAC24B}.Release|Win32.ActiveCfg = Release|Win32
+		{10DCBB24-F8BB-4796-A653-6DE9C8AAC24B}.Release|Win32.Build.0 = Release|Win32
+		{01975BB6-D2DA-48E7-AE0D-6A8AC8ECF48A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01975BB6-D2DA-48E7-AE0D-6A8AC8ECF48A}.Debug|Win32.Build.0 = Debug|Win32
+		{01975BB6-D2DA-48E7-AE0D-6A8AC8ECF48A}.Release|Win32.ActiveCfg = Release|Win32
+		{01975BB6-D2DA-48E7-AE0D-6A8AC8ECF48A}.Release|Win32.Build.0 = Release|Win32
+		{66CD7F50-73B9-482F-8B69-1AF54983F845}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66CD7F50-73B9-482F-8B69-1AF54983F845}.Debug|Win32.Build.0 = Debug|Win32
+		{66CD7F50-73B9-482F-8B69-1AF54983F845}.Release|Win32.ActiveCfg = Release|Win32
+		{66CD7F50-73B9-482F-8B69-1AF54983F845}.Release|Win32.Build.0 = Release|Win32
+		{35F435DB-AC4A-4F28-BA2D-812E638FB01A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{35F435DB-AC4A-4F28-BA2D-812E638FB01A}.Debug|Win32.Build.0 = Debug|Win32
+		{35F435DB-AC4A-4F28-BA2D-812E638FB01A}.Release|Win32.ActiveCfg = Release|Win32
+		{35F435DB-AC4A-4F28-BA2D-812E638FB01A}.Release|Win32.Build.0 = Release|Win32
+		{FC8D0610-1507-4F36-99BC-6F5A422B6AD3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FC8D0610-1507-4F36-99BC-6F5A422B6AD3}.Debug|Win32.Build.0 = Debug|Win32
+		{FC8D0610-1507-4F36-99BC-6F5A422B6AD3}.Release|Win32.ActiveCfg = Release|Win32
+		{FC8D0610-1507-4F36-99BC-6F5A422B6AD3}.Release|Win32.Build.0 = Release|Win32
+		{1B1FA434-D6D8-45FD-9DDE-79F91D3B0EA9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B1FA434-D6D8-45FD-9DDE-79F91D3B0EA9}.Debug|Win32.Build.0 = Debug|Win32
+		{1B1FA434-D6D8-45FD-9DDE-79F91D3B0EA9}.Release|Win32.ActiveCfg = Release|Win32
+		{1B1FA434-D6D8-45FD-9DDE-79F91D3B0EA9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
