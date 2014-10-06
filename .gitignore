@@ -20,6 +20,8 @@ stamp-h.in
 stamp-h1
 tags
 
+msvc/ipch/
+
 # These are the default patterns globally ignored by Subversion:
 *.o
 *.lo
@@ -36,3 +38,6 @@ tags
 .#*
 .*.swp
 .DS_store
+ipch
+/msvc/*.sdf
+/msvc/*.sdf
