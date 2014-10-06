@@ -130,7 +130,7 @@ bool IsAnalogStickPressedInDirection(Direction stick, Direction direction)
 	}
 }
 
-//This function will reset controller rumble to it's max.
+//This function will reset controller rumble to its max.
 void StartRumble()
 {
 	rumbleAmount = StandardRumble;
