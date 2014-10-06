@@ -41,3 +41,6 @@ msvc/ipch/
 ipch
 /msvc/*.sdf
 /msvc/*.sdf
+*.tlog
+*.obj
+*.pch
