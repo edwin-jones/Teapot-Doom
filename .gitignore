@@ -44,3 +44,7 @@ ipch
 *.tlog
 *.obj
 *.pch
+Debug
+Release
+Debug
+Release
