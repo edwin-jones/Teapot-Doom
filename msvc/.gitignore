@@ -5,3 +5,5 @@
 savegames
 strfsav*
 *.pcx
+Debug/
+Release/
